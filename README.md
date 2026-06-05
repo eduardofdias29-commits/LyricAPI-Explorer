@@ -2,7 +2,7 @@
 
 O **LyricAPI Explorer** é uma aplicação desktop moderna desenvolvida em Python para busca e consulta de letras de músicas em tempo real através da integração com a API do Genius.
 
-![Demonstração do LyricAPI Explorer](LyricAPI.gif)
+![Demonstração do LyricAPI Explorer](LyricAPI1.gif)
 
 ## 🚀 Recursos
 * Busca inteligente combinando o nome do artista e o título da música.
